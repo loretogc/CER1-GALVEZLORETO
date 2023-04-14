@@ -1,0 +1,47 @@
+#text{
+    background-color: white;
+    float: right;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+
+}
+h1{
+    text-align: center;
+    float: right;
+}
+h5{
+    
+    text-align: center;
+    clear: right;
+    float: right;
+    
+}
+
+
+#quienSoy{
+    margin-top: 10vw;
+    float: left;
+}
+
+h3{margin-top: 20vw;
+
+}
+#pAcerca{
+    
+    width: 350px;
+    clear: left;
+    float: left;
+}
+
+.img1{
+
+    margin-left: 100px;
+    float: left;
+    width: 220px;
+    height: 310px;
+    
+}
+
